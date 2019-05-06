@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Mon Nov 26 20:21:18 2018
-
-@author: Team 7
+@author: Bowen Li
 """
 
 #Imports libraries
