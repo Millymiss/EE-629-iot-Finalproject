@@ -6,11 +6,8 @@ These data files are after clean data files, not orignal files.
 ## 1. Scrapy the data from amazon web pages
 Captured feature data, wrote data handlers in Python, and label them 0 and 1 as not bestseller data and bestseller data.
 
-* Install packages:
-  
-
 ## 2. Clean the data to numeric data for modeling
 Give up the name feature cause it not affects the final result
-Improved the accuracy of support vector machine and gradient boosted decision tree by grid search, and displayed the comparison result with confusion matrix.
 
-## 3. Classifiy those information 
+## 3. Classifiy those products' features and improve the accuracy of algorithms
+Improved the accuracy by grid search, and displayed the comparison result with confusion matrix.
